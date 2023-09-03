@@ -1,0 +1,19 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.pl{
+    font-size: larger;
+}
+.osn{
+    font-size: xx-large;
+}
+
+span{
+    background-color: rgb(223, 223, 223);
+    padding-left: 5px;
+    padding-right:5px;
+}
+.red{
+    color: rgb(138, 0, 0);
+}
